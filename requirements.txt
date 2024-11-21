@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pillow
+pandas
+nest-asyncio
+python-dotenv
+llama-parse
